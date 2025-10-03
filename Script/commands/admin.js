@@ -22,7 +22,7 @@ module.exports.run = async function({ api, event }) {
 ┏━━━━━━━━━━━━━━━━━━━━━┓
 ┃      🌟 𝗢𝗪𝗡𝗘𝗥 𝗜𝗡𝗙𝗢 🌟      
 ┣━━━━━━━━━━━━━━━━━━━━━┫
-┃ 👤 𝐍𝐚𝐦𝐞      : SaLmAn
+┃ 👤 𝐍𝐚𝐦𝐞      : SaLmAn HoSsAiN
 ┃ 🚹 𝐆𝐞𝐧𝐝𝐞𝐫    : male
 ┃ ❤️ 𝐑𝐞𝐥𝐚𝐭𝐢𝐨𝐧  : Single
 ┃ 🎂 𝐀𝐠𝐞       : 18
